@@ -1,0 +1,15 @@
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.dacpac
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Books.DB.sqlprojResolveAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Books.DB.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Books.DB.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.dacpac
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\bin\Debug\Books.DB.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Model.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\refactor.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\postdeploy.sql
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\predeploy.sql
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Books.DB.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Books.DB\obj\Debug\Books.DB.pdb

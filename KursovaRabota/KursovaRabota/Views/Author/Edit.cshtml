@@ -1,0 +1,36 @@
+﻿@using KursovaRabota.Models
+@model AuthorViewModel
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+@if (Model.ID == 0)
+{
+    <h2>Create Author</h2>
+}
+else
+{
+    <h2>Edit Author</h2>
+}
+
+@using (Html.BeginForm("Edit", "Author"))
+{
+    <div class="form-horizontal">
+        <hr />
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="form-group">
+            <label class="control-label col-md-2" for="Name">Name</label>
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.Name)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Submit" class="btn btn-primary" />
+                @Html.ActionLink("Cancel", "Index", null, new { @class = "btn btn-default" })
+            </div>
+        </div>
+    </div>
+}

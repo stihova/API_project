@@ -1,0 +1,59 @@
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Kursova po .NET – Копие – Копие – Копие\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb

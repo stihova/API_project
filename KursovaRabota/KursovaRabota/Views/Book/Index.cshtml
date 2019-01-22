@@ -1,0 +1,45 @@
+﻿@using KursovaRabota.Models
+@model List<BookViewModel>
+
+@{
+    ViewBag.Title = "Books";
+}
+
+<h2>Books</h2>
+
+@* show ErrorMessage or InfoMessage (usually when we delete/edit/etc.) *@
+@Html.Partial("_InfoMessages")
+
+
+<div class="table-actions">
+    @Html.ActionLink("Add New Book", "Edit", "Book", null, new { @class = "btn btn-primary btn-sm" })
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Has Image</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Author Name</th>
+            <th>Category Name</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    @foreach (BookViewModel book in Model)
+    {
+        <tr>
+            <td>@(book.HasImage ? "Yes" : "No")</td>
+            <td>@book.BookName</td>
+            <td>@book.Description</td>
+            <td>@book.AuthorName</td>
+            <td>@book.CategoryName</td>
+            <td class="cell-small">
+                @Html.ActionLink("Edit", "Edit", "Book", new { id = book.ID }, new { @class = "btn btn-primary btn-sm" })
+            </td>
+            <td class="cell-small">
+                @Html.ActionLink("Delete", "Delete", "Book", new { id = book.ID }, new { onclick = "return confirm('Are you sure you to delete this book?');", @class = "btn btn-danger btn-sm" })
+            </td>
+        </tr>
+    }
+</table>

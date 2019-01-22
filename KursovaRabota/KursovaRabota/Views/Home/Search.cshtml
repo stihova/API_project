@@ -1,0 +1,38 @@
+﻿@using KursovaRabota.Models
+@model List<SearchViewModel>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>BookName</th>
+            <th>Author</th>
+            <th>Category</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+
+    @foreach (SearchViewModel book in Model)
+    {
+        <tr>
+            <td>
+                @if (book.HasImage)
+                {
+                    <a href="~/Book/Details/@book.BookID">
+                        <img src="@Url.Content(book.BookImageUrl)" width="200" alt="Image for @book.BookName" />
+                    </a>
+                }
+            </td>
+            <td>@book.BookName</td>
+            <td>@book.AuthorName</td>
+            <td>@book.CategoryName</td>
+            <td>@book.BookDescription</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,30 @@
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.dll.config
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.dll
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.pdb
+C:\Users\User6ycee\Desktop\VTU\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.dll.config
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\Repository.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\DataAccess.dll.config
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.dll
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\Repository\obj\Debug\Repository.pdb

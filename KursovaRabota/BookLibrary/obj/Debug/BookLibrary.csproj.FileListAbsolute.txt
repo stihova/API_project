@@ -1,0 +1,2 @@
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\BookLibrary\obj\Debug\BookLibrary.csprojAssemblyReference.cache
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\BookLibrary\obj\Debug\BookLibrary.csproj.CoreCompileInputs.cache

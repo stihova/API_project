@@ -1,0 +1,27 @@
+﻿@using KursovaRabota.Models
+@model HomeViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Books</h2>
+
+<br />
+
+<div>All books </div>
+
+<br />
+<br />
+
+<table>
+
+    @foreach (HomeBookViewModel book in Model.BooksList)
+    {
+        <tr>
+            <td>@book.Name</td>
+        </tr>
+    }
+
+</table>
+</div>
