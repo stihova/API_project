@@ -11,10 +11,16 @@ using System.Web.Http;
 namespace Library.Rest.Controllers
 {
     [RoutePrefix("api/categories")]
+    /// <summary>
+    /// CategoryController: Get, Put, Post, Delete methods
+    /// </summary>
     public class CategoryController : ApiController
     {
         [HttpGet]
         [Route]
+        /// <summary>
+        /// Get method - returns all categories
+        /// </summary>
         public List<CategoryModel> Get()
         {
             CategoryRepository categoryRepository = new CategoryRepository();
@@ -26,6 +32,9 @@ namespace Library.Rest.Controllers
 
         [HttpGet]
         [Route("{categoryID:int}")]
+        /// <summary>
+        /// Get element(category) by ID
+        /// </summary>
         public IHttpActionResult GetByID(int? categoryID)
         {
             if (categoryID == null)
@@ -42,6 +51,9 @@ namespace Library.Rest.Controllers
 
         [HttpGet]
         [Route("search")]
+        /// <summary>
+        /// Get element(category) by name
+        /// </summary>
         public IHttpActionResult GetCategoryName(string categoryName = null)
         {
 
@@ -79,6 +91,9 @@ namespace Library.Rest.Controllers
 
         [HttpPost]
         [Route]
+        /// <summary>
+        /// Post method
+        /// </summary>
         public IHttpActionResult Post(CategoryModel category)
         {
             try
@@ -102,6 +117,9 @@ namespace Library.Rest.Controllers
 
         [HttpDelete]
         [Route("{categoryID:int}")]
+        /// <summary>
+        /// Delete method- delete category with selected ID
+        /// </summary>
         public IHttpActionResult Delete(int categoryID)
         {
             try
