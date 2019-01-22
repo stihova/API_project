@@ -13,21 +13,16 @@ using System.Web.Http;
 namespace Library.Rest.Controllers
 {
     [RoutePrefix("api/books")]
+    /// <summary>
+    /// BookController: Get, Put, Post, Delete methods
+    /// </summary>
     public class BooksController : ApiController
     {
-        /// <summary>
-        /// Sum of two numbers in octal numeric system
-        /// </summary>
-        /// <param name="number1">First number</param>
-        /// <param name="number2">Second number</param>
-        /// <returns>The sum of the two numbers</returns>
-        
-        /// <summary>
-        /// Sum of two numbers in octal numeric system
-        /// </summary>
-
         [HttpGet]
         [Route]
+        /// <summary>
+        /// Get method - returns all books
+        /// </summary>
         public List<BookModel> Get()
         {
             BookRepository bookRepository = new BookRepository();
@@ -39,6 +34,9 @@ namespace Library.Rest.Controllers
 
         [HttpGet]
         [Route("{bookID:int}")]
+        /// <summary>
+        /// Get element(book) by ID
+        /// </summary>
         public IHttpActionResult GetByID(int? bookID)
         {
             if (bookID == null)
@@ -56,6 +54,9 @@ namespace Library.Rest.Controllers
 
         [HttpGet]
         [Route("search")]
+        /// <summary>
+        /// Get element(book) by name
+        /// </summary>
         public IHttpActionResult GetBookName(string bookName = null)
         {
 
@@ -93,6 +94,9 @@ namespace Library.Rest.Controllers
 
         [HttpPost]
         [Route]
+        /// <summary>
+        /// Post method
+        /// </summary>
         public IHttpActionResult Post(BookModel book)
         {
             try
@@ -116,6 +120,9 @@ namespace Library.Rest.Controllers
 
         [HttpDelete]
         [Route("{bookID:int}")]
+        /// <summary>
+        /// Delete method- delete book with selected ID
+        /// </summary>
         public IHttpActionResult Delete(int bookID)
         {
             try

@@ -11,12 +11,17 @@ using System.Web.Http;
 namespace Library.Rest.Controllers
 {
     [RoutePrefix("api/authors")]
-
+    /// <summary>
+    /// AuthorController: Get, Put, Post, Delete methods
+    /// </summary>
     public class AuthorController : ApiController
     {
             [HttpGet]
             [Route]
-            public List<AuthorModel> Get()
+        /// <summary>
+        /// Get method - returns all authors
+        /// </summary>
+        public List<AuthorModel> Get()
             {
                 AuthorRepository authorRepository = new AuthorRepository();
                 var allAuthor = authorRepository.GetAll()
@@ -27,7 +32,10 @@ namespace Library.Rest.Controllers
 
             [HttpGet]
             [Route("{authorID:int}")]
-            public IHttpActionResult GetByID(int? authorID)
+        /// <summary>
+        /// Get element(author) by ID
+        /// </summary>
+        public IHttpActionResult GetByID(int? authorID)
             {
                 if (authorID == null)
                     return BadRequest("the parameter authorID is empty");
@@ -43,7 +51,10 @@ namespace Library.Rest.Controllers
 
             [HttpGet]
             [Route("search")]
-            public IHttpActionResult GetAuthorName(string authorName = null)
+        /// <summary>
+        /// Get element(author) by name
+        /// </summary>
+        public IHttpActionResult GetAuthorName(string authorName = null)
             {
 
                 AuthorRepository autrohRepository = new AuthorRepository();
@@ -80,7 +91,10 @@ namespace Library.Rest.Controllers
 
             [HttpPost]
             [Route]
-            public IHttpActionResult Post(AuthorModel author)
+        /// <summary>
+        /// Post method
+        /// </summary>
+        public IHttpActionResult Post(AuthorModel author)
             {
                 try
                 {
@@ -91,7 +105,7 @@ namespace Library.Rest.Controllers
                     author.CopyValuesToEntity(dbAuthor);
                     authorRepository.Create(dbAuthor);
 
-                    // return the newly created Book
+                    // return the newly created Author
                     AuthorModel newAuthor = new AuthorModel(dbAuthor);
                     return Ok(newAuthor);
                 }
@@ -103,7 +117,10 @@ namespace Library.Rest.Controllers
 
             [HttpDelete]
             [Route("{authorID:int}")]
-            public IHttpActionResult Delete(int authorID)
+        /// <summary>
+        /// Delete method- delete author with selected ID
+        /// </summary>
+        public IHttpActionResult Delete(int authorID)
             {
                 try
                 {
