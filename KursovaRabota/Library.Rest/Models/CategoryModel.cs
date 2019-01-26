@@ -8,6 +8,7 @@ namespace Library.Rest.Models
 {
     public class CategoryModel
     {
+        //Свойства на CategoryModel
         public int ID { get; set; }
         public string Name { get; set; }
 

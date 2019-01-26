@@ -57,3 +57,4 @@ C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работ
 C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
 C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\User6ycee\Desktop\VTU\Втори курс\API\Курсова Работа\KursovaRabota\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache

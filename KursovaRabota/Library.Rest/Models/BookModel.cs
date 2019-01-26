@@ -9,6 +9,7 @@ namespace BookLibrary.Rpc.Models
 {
     public class BookModel
     {
+        //Свойства на BookModel
         public int BookID { get; set; }
         public string BookName { get; set; }
         public int AuthorID { get; set; }
